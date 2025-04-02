@@ -1,0 +1,26 @@
+<html>
+<head>
+<tittle>menu page for cafe <little>
+</head>
+<body>
+<h1>IRANI CAFE</h1>
+<h2>Hot Beverages</h2>
+<ul>
+<li>Tea        -₹20</li>
+<li>Coffee     -₹20</li>
+<li>Cappuccino -₹30</li>
+</ul>
+<h2>Desserts</h2>
+<ul>
+<li>Muffins  -₹40</li>
+<li>Brownies -₹30</li>
+<li>Scones   -₹20</li>
+</ul>
+<h2>Cold Beverages</h2>
+<ul>
+<li>Iced coffee -₹20</li>
+<li>Sweet tea   -₹20</li>
+<li>Milk shakes -₹50</li>
+</ul>
+</body>
+</html>
